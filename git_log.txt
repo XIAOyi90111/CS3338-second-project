@@ -1,0 +1,45 @@
+commit fac1de83f9fdc58a5944d690f2664b9753cfe16b
+Merge: f5fe7a8 c4a870f
+Author: XIAOyi90111 <xzhang81@calstatela.edu>
+Date:   Wed Sep 9 13:57:54 2026 -0700
+
+    Resolve merge conflict
+
+commit c4a870ffe704178b5333c3c5375cc8eb2f69e913
+Author: XIAOyi90111 <xzhang81@calstatela.edu>
+Date:   Wed Sep 9 13:53:24 2026 -0700
+
+    Add favorite movie
+
+commit f5fe7a88a9e6f46ee53b0dd2819da5b2145ccd0e
+Author: XIAOyi90111 <xzhang81@calstatela.edu>
+Date:   Wed Sep 9 13:50:39 2026 -0700
+
+    Add favorite food
+
+commit 44ccd92e121991df52777f32faeb03ffbb5e2b5b
+Author: XIAOyi90111 <xzhang81@calstatela.edu>
+Date:   Wed Sep 9 13:45:20 2026 -0700
+
+    Add README
+
+commit ce77cc690a19c3cd6a15da94a22e89753398cd18
+Merge: 1d2bfc0 d712bc4
+Author: XIAOyi90111 <xzhang81@calstatela.edu>
+Date:   Wed Sep 9 13:35:59 2026 -0700
+
+    Merge pull request #1 from XIAOyi90111/info-fill
+    
+    Fill in personal information
+
+commit d712bc4a59fadbee255420673bf9db635f7c7c0c
+Author: XIAOyi90111 <xzhang81@calstatela.edu>
+Date:   Wed Sep 9 12:50:23 2026 -0700
+
+    Fill in personal information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
